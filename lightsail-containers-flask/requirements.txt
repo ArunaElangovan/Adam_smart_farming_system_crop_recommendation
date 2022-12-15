@@ -1,0 +1,5 @@
+flask==2.1.0
+xgboost
+numpy
+scipy
+scikit-learn
